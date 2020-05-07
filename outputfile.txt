@@ -1,0 +1,175 @@
+Initial Player 1: 7c , tc , jc , 2d , 5d , 9d , 4h , 7h , 2s , 
+
+Initial Player 2: 6c , kc , 4d , 7d , jd , 3h , jh , 8s , qs , 
+
+Player 1
+    Added: th
+    Discarded: jc
+    Hand now: 7c , tc , 2d , 5d , 9d , 4h , 7h , th , 2s , 
+
+Player 2
+    Added: 4s
+    Discarded: qs
+    Hand now: 6c , kc , 4d , 7d , jd , 3h , jh , 4s , 8s , 
+
+Player 1
+    Added: 5c
+    Discarded: 4h
+    Hand now: 5c , 7c , tc , 2d , 5d , 9d , 7h , th , 2s , 
+
+Player 1
+    Added: 4h
+    Laying: 4d , 4h , 4s , 
+    Hand now: 6c , kc , 7d , jd , 3h , jh , 8s , 
+Player 1
+    Added: 9c
+    Discarded: th
+    Hand now: 5c , 7c , 9c , tc , 2d , 5d , 9d , 7h , 2s , 
+
+Player 2
+    Added: 8d
+    Discarded: 7d
+    Hand now: 6c , kc , 8d , jd , 3h , jh , 8s , 
+
+Player 1
+    Added: 7d
+    Laying: 7c , 7d , 7h , 
+    Hand now: 5c , 9c , tc , 2d , 5d , 9d , 2s , 
+Player 2
+    Added: qc
+    Discarded: qc
+    Hand now: 6c , kc , 8d , jd , 3h , jh , 8s , 
+
+Player 1
+    Added: 5s
+    Laying: 5c , 5d , 5s , 
+    Hand now: 9c , tc , 2d , 9d , 2s , 
+Player 2
+    Added: js
+    Discarded: 8d
+    Hand now: 6c , kc , jd , 3h , jh , 8s , js , 
+
+Player 1
+    Added: 2h
+    Laying: 2d , 2h , 2s , 
+    Hand now: 9c , tc , 9d , 
+Player 2
+    Added: 9s
+    Laying: jd , jh , js , 
+    Hand now: 6c , kc , 3h , 8s , 9s , 
+Player 1
+    Added: 5h
+    Discarded: tc
+    Hand now: 9c , 9d , 5h , 
+
+Player 2
+    Added: 9h
+    Discarded: 9s
+    Hand now: 6c , kc , 3h , 9h , 8s , 
+
+Player 1
+    Added: 9s
+    Laying: 9c , 9d , 9s , 
+    Hand now: 5h , 
+Player 2
+    Added: ts
+    Laying: 9h , 
+    Hand now: 6c , kc , 3h , 8s , ts , 
+Player 1
+    Added: ad
+    Laying: 5h , 
+    Hand now: ad , 
+Player 2
+    Added: 2c
+    Discarded: 8s
+    Hand now: 2c , 6c , kc , 3h , ts , 
+
+Player 1
+    Added: qd
+    Discarded: qd
+    Hand now: ad , 
+
+Player 2
+    Added: ks
+    Discarded: ts
+    Hand now: 2c , 6c , kc , 3h , ks , 
+
+Player 1
+    Added: qh
+    Discarded: qh
+    Hand now: ad , 
+
+Player 2
+    Added: 3c
+    Laying: 2c , 
+    Hand now: 3c , 6c , kc , 3h , ks , 
+Player 1
+    Added: 6s
+    Discarded: 6s
+    Hand now: ad , 
+
+Player 2
+    Added: kh
+    Laying: kc , kh , ks , 
+    Hand now: 3c , 6c , 3h , 
+Player 1
+    Added: 4c
+    Discarded: 4c
+    Hand now: ad , 
+
+Player 2
+    Added: 3s
+    Laying: 3c , 3h , 3s , 
+    Hand now: 6c , 
+Player 1
+    Added: 7s
+    Laying: 7s , 
+    Hand now: ad , 
+Player 2
+    Added: td
+    Discarded: td
+    Hand now: 6c , 
+
+Player 1
+    Added: 6d
+    Discarded: 6d
+    Hand now: ad , 
+
+Player 2
+    Added: 3d
+    Laying: 3d , 
+    Hand now: 6c , 
+Player 1
+    Added: kd
+    Discarded: kd
+    Hand now: ad , 
+
+Player 2
+    Added: 8c
+    Discarded: 8c
+    Hand now: 6c , 
+
+Player 1
+    Added: ah
+    Discarded: ah
+    Hand now: ad , 
+
+Player 2
+    Added: 8h
+    Discarded: 8h
+    Hand now: 6c , 
+
+Player 1
+    Added: 6h
+    Discarded: 6h
+    Hand now: ad , 
+
+Player 2
+    Added: ac
+    Discarded: ac
+    Hand now: 6c , 
+
+Player 1
+    Added: as
+Points: 6 to 2
+Player 1 wins!
